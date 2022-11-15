@@ -1,4 +1,3 @@
-package Project2;
 /**
 ITSC 1213 Project 2
 CD class that manages the objects in CD
