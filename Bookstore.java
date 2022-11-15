@@ -1,4 +1,3 @@
-package Project2;
 import java.util.*;
 /**
 ITSC 1213 Project 2
