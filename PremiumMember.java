@@ -1,4 +1,3 @@
-package Project2;
 /**
 ITSC 1213 Project 2
 Premium Member class that manages the objects in PremiumMember
