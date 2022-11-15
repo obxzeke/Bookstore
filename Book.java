@@ -1,4 +1,3 @@
-package Project2;
 /**
 ITSC 1213 Project 2
 Book class that manages the objects in Book
