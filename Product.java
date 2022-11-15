@@ -1,4 +1,3 @@
-package Project2;
 /**
 ITSC 1213 Project 2
 Product abstract class to manage products and acts as a parent class for books, cds, and dvds
