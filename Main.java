@@ -1,4 +1,3 @@
-package Project2;
 /**
 ITSC 1213 Project 2
 Main class that acts as the user's interface for adding items to cart, purchasing items, adding new member, printing a report off each member, and checking inventory of items
