@@ -1,4 +1,3 @@
-package Project2;
 /**
 ITSC 1213 Project 2
 public interface to restock a product and calculate the total inventory of the bookstore
